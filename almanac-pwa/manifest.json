@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "helpful-caramel-c6244a.netlify",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "helpful-caramel-c6244a.netlify",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "This is a testing app"
+}
